@@ -1,4 +1,4 @@
-#Beauty Landing Page
+# Beauty Landing Page
 
 ## 🏆 Objetivo
 
